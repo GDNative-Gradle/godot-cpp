@@ -4,7 +4,6 @@ plugins {
 }
 
 group = "org.godot"
-name = "godot-cpp"
 
 library {
 	targetMachines.set(listOf(machines.linux.x86_64,
