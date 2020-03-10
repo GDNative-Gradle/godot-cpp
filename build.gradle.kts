@@ -3,6 +3,9 @@ plugins {
 	id("visual-studio")
 }
 
+group = "org.godot"
+name = "godot-cpp"
+
 library {
 	targetMachines.set(listOf(machines.linux.x86_64,
 							  machines.windows.x86, machines.windows.x86_64,
