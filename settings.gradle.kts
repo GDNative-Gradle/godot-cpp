@@ -1,1 +1,1 @@
-rootProject.name = "org.godot:godot-cpp"
+rootProject.name = "godot-cpp"
